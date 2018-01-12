@@ -28,7 +28,7 @@
 	<div class="footer">
 		<div class="footer-content">
 			
-			<p>Simple PHP and MS-SQL DB Query Tool | <a href="http://r4mzy.co.za">r4mzy.co.za</a></p>
+			<p>Simple PHP and MS-SQL DB Query Tool | <a href="https://github.com/R4mzy/Simple-PHP-and-MS-SQL-DB-Query-Tool/">GitHub</a></p>
 			<p><a href="about.php">About & Changelog</a></p>
 		
 		<!-- end div:footer-content -->
