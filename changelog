@@ -1,0 +1,18 @@
+180112
+- Add boolean variable switch to check that someone has set actual environment variables ($binVarsSet).
+    Set this variable to TRUE once you have provided the data for your environment.
+
+180111
+- Improve HTML table generation to be more 'programmatic'.
+- Provide user environment variables in one place (searchCode.php) for easier configuration.
+
+171101?
+- Add support for multiple search terms.
+
+170929
+- Updates to code formatting, page titles, and text elements (including query header titles). 
+- Initial implementation of the About page.
+- Updated search bar and separated the header elements to allow them to be used persistently across pages.
+
+170320
+- (Approximate date) Initial build.
