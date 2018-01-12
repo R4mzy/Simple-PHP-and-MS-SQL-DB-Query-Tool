@@ -6,7 +6,7 @@ This "tool" is a barebones PHP webpage for providing an interface to submit a se
 Installation:
 - The thing was built for an IIS + PHP 7.0 environment. It might work elsewhere but that's untested.
   My implementation saw the page hosted as a new IIS site, in the default IIS directory (C:/inetput/wwwroot/[some-dir]).
-- You need to configure your database environment info in the searchCode.php file. 
+- You need to configure your database environment variables in the searchCode.php file. 
   They're all at the top of the file and hopefully easy to identify.
   
 Usage:
