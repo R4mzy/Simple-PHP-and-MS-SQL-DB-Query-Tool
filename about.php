@@ -22,7 +22,7 @@
 		</p>
 		<p>
 			Initial development by r4mzy of <a href="http://r4mzy.co.za" target="_blank">r4mzy.co.za</a>. <br>
-			Project home on <a href="" target="_blank">GitHub</a>. 
+			Project home on <a href="https://github.com/R4mzy/Simple-PHP-and-MS-SQL-DB-Query-Tool/" target="_blank">GitHub</a>. 
 		</p>
 	<!-- end div:about -->
 	</div>
@@ -35,7 +35,7 @@
 	<div class="footer">
 		<div class="footer-content">
 			
-			<p>Simple PHP and MS-SQL DB Query Tool | <a href="http://r4mzy.co.za">r4mzy.co.za</a></p>
+			<p>Simple PHP and MS-SQL DB Query Tool | <a href="https://github.com/R4mzy/Simple-PHP-and-MS-SQL-DB-Query-Tool/">GitHub</a></p>
 			<p><a href="about.php">About & Changelog</a></p>
 		
 		<!-- end div:footer-content -->
